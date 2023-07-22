@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="src",
+    name="Cement",
     version="0.0.1",
-    author="iNeuron",
-    author_email="cloud@ineuron.ai",
+    author="Avaneesh Pathak",
+    author_email="avaneeshpathak900@gmail.com",
     packages=find_packages(),
     install_requires=[],
 )
